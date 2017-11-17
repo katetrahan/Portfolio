@@ -1,11 +1,12 @@
 body {
   text-align: center;
-  background-color: #e6ffff;
+  background-color: #000000;
+  font-size: 20pt;
 }
 
 img {
-  width: 600px;
-  height: 400px;
+  width: 500px;
+  height: 500px;
 }
 
 .container.rowtwo {
@@ -20,4 +21,12 @@ img {
 .panel.panel-info {
   width: 700px;
   height: 300px;
+}
+
+.about-me {
+  text-align: left;
+}
+
+.well {
+  background-color: #cccccc;
 }
