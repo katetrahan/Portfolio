@@ -30,3 +30,8 @@ img {
 .well {
   background-color: #cccccc;
 }
+
+.personal {
+  font-weight: 900;
+  font-size: 22pt;
+}
