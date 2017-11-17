@@ -4,6 +4,20 @@ body {
 }
 
 img {
-  width: 1280px;
-  height: 500px;
+  width: 600px;
+  height: 400px;
+}
+
+.container.rowtwo {
+  float: right;
+}
+
+.panel.panel-warning {
+  width: 700px;
+  height: 300px;
+}
+
+.panel.panel-info {
+  width: 700px;
+  height: 300px;
 }
