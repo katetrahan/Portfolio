@@ -7,6 +7,7 @@
 ## Description
 
 This application is a portfolio webpage about me. Open portfolio.html in your favorite browser after downloading or cloning from GitHub, and have fun!
+Live gh-pages site: https://katetrahan.github.io/Portfolio/
 
 ## Technologies used:
 
